@@ -1,7 +1,6 @@
-# Me Sharing
-# Youhan Dou
+# Leetcodes
 
-Me Sharing is a website sharing your life and opinions with friends. Share joy; love the world.
+code examples and explanations
 
 ## Getting Started
 
