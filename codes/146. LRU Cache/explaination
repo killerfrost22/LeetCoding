@@ -1,0 +1,24 @@
+WHat is LRU:
+Least recent used policy
+example: list: 1 2 3 4 
+
+put 0 into the list we need to evict 4 to become 0 1 2 3
+
+What is a cache? Stores data to speed up the same future requests
+
+LRU Cache : A cachce using the LRU cache policy 
+
+We need to support a get() method
+A put method:
+LRU eviction policy
+Time to be O(1)
+
+Need fast 1.look up and 2.fast removal
+
+Hash table: Good solution
+How to remote items quickly?  binary search Arrays? W- Linked list prevent to resize an Arrays
+
+We don't need to do the single work 
+
+
+Get（1） is the first callout
