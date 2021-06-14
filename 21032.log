@@ -1,4 +1,4 @@
-[ERROR May 14 12:24:27.938290300, defaults.go:139] Could not load configuration: Failed to load configuration.
+[ERROR Jun 13 21:08:08.593968300, defaults.go:139] Could not load configuration: Failed to load configuration.
 
 Stacktrace: D:/a/cli/cli/internal/logging/logging.go:github.com/ActiveState/cli/internal/logging.Error:258
 D:/a/cli/cli/internal/logging/defaults.go:github.com/ActiveState/cli/internal/logging.init.0:139
@@ -8,4 +8,4 @@ C:/hostedtoolcache/windows/go/1.15.11/x64/src/runtime/proc.go:runtime.doInit:564
 C:/hostedtoolcache/windows/go/1.15.11/x64/src/runtime/proc.go:runtime.main:191
 C:/hostedtoolcache/windows/go/1.15.11/x64/src/runtime/asm_amd64.s:runtime.goexit:1374
 
-[DEBUG May 14 12:24:27.946292300, locale.go:34] Init
+[DEBUG Jun 13 21:08:08.595558600, locale.go:34] Init
