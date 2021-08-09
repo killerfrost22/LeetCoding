@@ -8,10 +8,12 @@ class Solution(object):
         stack  = []
         dict = {"]": "[", "}": "{", ")": "("}
         for char in s:
-            if char in dict.values():
-                stack.append(char)
-            elif char in dict.keys():
-                if stack == [] or dict[char] != stack.pop():
+            if char in dict:
+                if stack and  stack[-1] == dict[char]:
+                    stack.pop()
+                else:
                     return False
             else:
-                return False
+                stack.append(char)
+            
+        return True if not stack else False
