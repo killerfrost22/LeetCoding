@@ -8,9 +8,9 @@ class Solution(object):
             return [1,0]
         if digits[-1] != 9:
             digits[-1] += 1
-            return digits
         else:
             digits = self.plusOne(digits[:-1])
             digits.append(0)
-            return digits
+
+        return digits
             
