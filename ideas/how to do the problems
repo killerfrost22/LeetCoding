@@ -1,0 +1,26 @@
+1.基本数据类型 没有条件控制，没有循环，单纯的按从上到下的顺序执行代码，例如数学计算，取模等问题
+
+2.判断语句 主要考察选择结构，没有循环，有if，else if，else等判断语句，例如判断闰年等问题 
+
+3.数组与循环 主要考察数组、循环语句，以while、for循环为代码主体的题，不要出现字符串，如数组求和等问题。 
+
+4.字符串与循环 考察字符串操作，例如判断回文串、求子串等问题 
+
+5.栈与队列 主要考察栈和队列的特性，调用库来完成题目要求，或简单实现，比如括号匹配等问题 
+
+6.简单递归 递归类问题，超简单的那种，比如斐波那契。 这里大概会覆盖50题左右，可以直接移步这套《新手必刷编程50题》免费做，也可以直接看我的题单： ①基本数据类型 
+
+https://www.lintcode.com/problem/1 
+https://www.lintcode.com/problem/37 
+https://www.lintcode.com/problem/764 
+https://www.lintcode.com/problem/1300 
+
+②判断语句 
+https://www.lintcode.com/problem/23 
+https://www.lintcode.com/problem/766 
+https://www.lintcode.com/problem/145 
+https://www.lintcode.com/problem/1141 
+https://www.lintcode.com/problem/478 
+https://www.lintcode.com/problem/283 
+
+③数组与循环 https://www.lintcode.com/problem/25 https://www.lintcode.com/problem/214 https://www.lintcode.com/problem/485 https://www.lintcode.com/problem/539 https://www.lintcode.com/problem/297 https://www.lintcode.com/problem/484 https://www.lintcode.com/problem/9 https://www.lintcode.com/problem/220 https://www.lintcode.com/problem/407 https://www.lintcode.com/problem/807 https://www.lintcode.com/problem/463 https://www.lintcode.com/problem/298 https://www.lintcode.com/problem/479 https://www.lintcode.com/problem/46 https://www.lintcode.com/problem/768 https://www.lintcode.com/problem/1334 https://www.lintcode.com/problem/767 https://www.lintcode.com/problem/235 https://www.lintcode.com/problem/53 https://www.lintcode.com/problem/50 ④字符串与循环 https://www.lintcode.com/problem/8 https://www.lintcode.com/problem/491 https://www.lintcode.com/problem/146 https://www.lintcode.com/problem/422 https://www.lintcode.com/problem/353 https://www.lintcode.com/problem/936 https://www.lintcode.com/problem/241 https://www.lintcode.com/problem/13 https://www.lintcode.com/problem/1535 https://www.lintcode.com/problem/1343 https://www.lintcode.com/problem/133 ⑤栈与队列 https://www.lintcode.com/problem/263 https://www.lintcode.com/problem/423 https://www.lintcode.com/problem/495 https://www.lintcode.com/problem/492 https://www.lintcode.com/problem/771 ⑥简单递归 https://www.lintcode.com/problem/366 https://www.lintcode.com/problem/66 https://www.lintcode.com/problem/67 https://www.lintcode.com/problem/68 如果这些题刷完了，说明你已经逐步建立起编程的思维，能够完成一些简单的代码题，这时候就可以开始逐步进阶，完成一些更高level的题目，目标是能够应付大厂的算法题。 所以，这一阶段你可以按照面试中常考的知识点进行准备，主要包括： 链表、二分法、二分答案、相向双指针、宽度优先搜索、二叉树遍历、二叉树＆分治法、二叉搜索树、深度优先搜索、坐标型动态规划、背包型动态规划、匹配型动态规划。 这里大概是80题，刷完这130题可能要2个月左右时间，但性价比超高！ 进阶后相应的题目： 链表： https://www.lintcode.com/problem/35 https://www.lintcode.com/problem/36 https://www.lintcode.com/problem/450 https://www.lintcode.com/problem/228 https://www.lintcode.com/problem/102 https://www.lintcode.com/problem/103 98 · Sort List - LintCode 二分法： https://www.lintcode.com/problem/14 https://www.lintcode.com/problem/28 https://www.lintcode.com/problem/75 https://www.lintcode.com/problem/457 https://www.lintcode.com/problem/458 二分答案： https://www.lintcode.com/problem/183 https://www.lintcode.com/problem/437 https://www.lintcode.com/problem/319 https://www.lintcode.com/problem/963 相向双指针： https://www.lintcode.com/problem/56 https://www.lintcode.com/problem/57 https://www.lintcode.com/problem/58 https://www.lintcode.com/problem/363 https://www.lintcode.com/problem/539 https://www.lintcode.com/problem/6 https://www.lintcode.com/problem/32 https://www.lintcode.com/problem/521 https://www.lintcode.com/problem/1870 https://www.lintcode.com/problem/328 https://www.lintcode.com/problem/547 https://www.lintcode.com/problem/406 宽度优先搜索： https://www.lintcode.com/problem/433 https://www.lintcode.com/problem/615 https://www.lintcode.com/problem/630 https://www.lintcode.com/problem/120 https://www.lintcode.com/problem/178/ https://www.lintcode.com/problem/278 https://www.lintcode.com/problem/787 二叉树遍历： https://www.lintcode.com/problem/66 https://www.lintcode.com/problem/67 https://www.lintcode.com/problem/68 https://www.lintcode.com/problem/69 https://www.lintcode.com/problem/73 https://www.lintcode.com/problem/72 二叉树＆分治法： https://www.lintcode.com/problem/468 https://www.lintcode.com/problem/854 https://www.lintcode.com/problem/596 https://www.lintcode.com/problem/628 https://www.lintcode.com/problem/597 二叉搜索树： https://www.lintcode.com/problem/902 https://www.lintcode.com/problem/915 https://www.lintcode.com/problem/85 https://www.lintcode.com/problem/95 https://www.lintcode.com/problem/689 深度优先搜索： https://www.lintcode.com/problem/1909 https://www.lintcode.com/problem/634 https://www.lintcode.com/problem/802 https://www.lintcode.com/problem/652 https://www.lintcode.com/problem/169 https://www.lintcode.com/problem/425 https://www.lintcode.com/problem/33 坐标型动态规划： https://www.lintcode.com/problem/114 https://www.lintcode.com/problem/115 https://www.lintcode.com/problem/1861 https://www.lintcode.com/problem/1827 https://www.lintcode.com/problem/76 https://www.lintcode.com/problem/109 https://www.lintcode.com/problem/1702 背包型动态规划： https://www.lintcode.com/problem/669 https://www.lintcode.com/problem/564 https://www.lintcode.com/problem/92 https://www.lintcode.com/problem/1915 https://www.lintcode.com/problem/1800 https://www.lintcode.com/problem/125 https://www.lintcode.com/problem/440 https://www.lintcode.com/problem/562 https://www.lintcode.com/problem/563 https://www.lintcode.com/problem/724
